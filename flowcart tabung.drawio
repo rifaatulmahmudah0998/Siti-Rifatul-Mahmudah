@@ -1,1 +1,148 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T11:48:16.458Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" version="12.9.10" etag="p6CR1Dp9BUEFqI99iqRm" type="github"><diagram id="ThjVVSDZuOxU2vxRbBm2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-20T13:59:28.514Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="1daosGDEG610O9JH4eOo" version="12.9.14" type="github">
+  <diagram id="ThjVVSDZuOxU2vxRbBm2" name="Halaman-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-3" target="2Dfqi70ykLB82hxpKwa3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-3" value="menampilkan nama, absen, percobaan ke-" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="100" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-5" value="angka &amp;lt;3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-7" value="benar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="202" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-12" value="masukkan volume &lt;br&gt;&amp;amp; tinggi tabung" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-15" value="proses penghitungan jari-jari tabung sqrt = vol/(tinggi*3.14)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-17" target="2Dfqi70ykLB82hxpKwa3-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-17" value="print hasil jari-jari tabung" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-19" target="2Dfqi70ykLB82hxpKwa3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-19" value="Masukkan jari-jari &lt;br&gt;dan tinggi tabung" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-21" target="2Dfqi70ykLB82hxpKwa3-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-21" value="proses penghitungan luas permukaan tabung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="570" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-22" value="print hasil luas permukaan tabung" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-24" target="2Dfqi70ykLB82hxpKwa3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="770" />
+              <mxPoint x="450" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-24" target="2Dfqi70ykLB82hxpKwa3-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-24" value="ulangi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-28" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-29" value="int pembagian" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-34" target="2Dfqi70ykLB82hxpKwa3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-34" value="&lt;span&gt;masukkan volume (a)&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;&amp;amp; tinggi tabung (b)&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="110" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-35" target="2Dfqi70ykLB82hxpKwa3-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-35" value="proses hasil a/b" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-35" target="2Dfqi70ykLB82hxpKwa3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2Dfqi70ykLB82hxpKwa3-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-39" value="print hasil" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Dfqi70ykLB82hxpKwa3-42" value="selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
