@@ -1,1 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T07:00:00.199Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.2" etag="Hl4qoqlEnCrdGIqk2xTu" type="github"><diagram id="ebdJBXKXP5XJlpO1t2-k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-02T07:06:14.327Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="dTCF7IreBzbjTrLJFsJ8" version="13.0.2" type="github">
+  <diagram id="ebdJBXKXP5XJlpO1t2-k" name="Halaman-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0wTifhs9pVpjUrF7IxjW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0wTifhs9pVpjUrF7IxjW-1" target="0wTifhs9pVpjUrF7IxjW-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0wTifhs9pVpjUrF7IxjW-1" value="start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0wTifhs9pVpjUrF7IxjW-3" value="masukkan pil.menu" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
