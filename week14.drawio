@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T04:09:30.423Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="7YAJ3XAD2M9ZjfZ2rPpP" version="13.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-07T04:10:40.864Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="_2swysO2UJvOds7lVCDr" version="13.0.5" type="github" pages="2">
   <diagram id="ebdJBXKXP5XJlpO1t2-k" name="Halaman-1">
     <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -501,11 +501,14 @@
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-24" value="input jawaban" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="384.5" y="1312" width="95.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jYO5e1NrGRYPqrq0ljtH-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jYO5e1NrGRYPqrq0ljtH-46" target="jYO5e1NrGRYPqrq0ljtH-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-46" value="tampilkan skor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-47" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1720" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="1720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-48" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="jYO5e1NrGRYPqrq0ljtH-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -525,7 +528,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-55" value="terimakasih" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1622" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="1622" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-56" value="benar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="79" y="1237" width="40" height="20" as="geometry" />
