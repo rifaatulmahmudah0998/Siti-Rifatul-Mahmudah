@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T04:10:40.864Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="_2swysO2UJvOds7lVCDr" version="13.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-05-07T04:14:12.043Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="4hhhWT_6NGhOdrTCGFLM" version="13.0.5" type="github">
   <diagram id="ebdJBXKXP5XJlpO1t2-k" name="Halaman-1">
     <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
             <mxPoint x="135" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0wTifhs9pVpjUrF7IxjW-8" value="&lt;div&gt;char *menu[]=&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;persegi\n&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;persegi panjang\n&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Limas\n&quot;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0wTifhs9pVpjUrF7IxjW-8" value="&lt;div&gt;char *menu[]=&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Kubus\n&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Balok\n&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &quot;Limas\n&quot;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="90" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0wTifhs9pVpjUrF7IxjW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0wTifhs9pVpjUrF7IxjW-10" edge="1">
@@ -313,7 +313,7 @@
             <mxPoint x="620" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-60" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;i&amp;lt;=&lt;font color=&quot;#09885a&quot;&gt;3&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-60" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;i&amp;lt;=&lt;font color=&quot;#09885a&quot;&gt;5&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="516" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rt1Y4jGIaElK-bjEdFtm-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rt1Y4jGIaElK-bjEdFtm-62" target="Rt1Y4jGIaElK-bjEdFtm-64">
@@ -325,7 +325,7 @@
         <mxCell id="Rt1Y4jGIaElK-bjEdFtm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rt1Y4jGIaElK-bjEdFtm-64" target="Rt1Y4jGIaElK-bjEdFtm-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-64" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;j&amp;lt;=&lt;span style=&quot;color: #09885a&quot;&gt;5&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-64" value="&lt;div style=&quot;background-color: rgb(255 , 255 , 254) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;j&amp;lt;=&lt;font color=&quot;#09885a&quot;&gt;i&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="588.75" y="666" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rt1Y4jGIaElK-bjEdFtm-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rt1Y4jGIaElK-bjEdFtm-66" target="Rt1Y4jGIaElK-bjEdFtm-60">
@@ -348,7 +348,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-69" value="menamilkan bangun&lt;br&gt;persegi panjang" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rt1Y4jGIaElK-bjEdFtm-69" value="menamilkan bangun&lt;br&gt;segitiga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="553.13" y="746" width="136.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rt1Y4jGIaElK-bjEdFtm-70" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -683,14 +683,6 @@
         <mxCell id="jYO5e1NrGRYPqrq0ljtH-107" value="salah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="705.5" y="1502" width="40" height="20" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="DmgJf3vSw39suGwBix9l" name="Halaman-2">
-    <mxGraphModel dx="868" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="-30Xm608WDupodjD7dE_-0" />
-        <mxCell id="-30Xm608WDupodjD7dE_-1" parent="-30Xm608WDupodjD7dE_-0" />
       </root>
     </mxGraphModel>
   </diagram>
